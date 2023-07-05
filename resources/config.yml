@@ -1,0 +1,5 @@
+//* Configuration for AutoResponder
+Members: true
+//* if set to false it will only be accessible to those who have the permission "autoresponder.use"
+Gpt: "3.5-turbo"
+//* available options rn are 3.5-turbo
